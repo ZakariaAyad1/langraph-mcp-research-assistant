@@ -1,0 +1,19 @@
+# Core LangGraph and LangChain
+langgraph
+langchain
+langchain-google-genai
+langchain-community
+
+# UI
+streamlit
+
+# Free search tools (no API key or credit card needed)
+duckduckgo-search
+wikipedia-api
+
+# Utilities
+python-dotenv
+pydantic
+
+# Additional utilities
+requests
