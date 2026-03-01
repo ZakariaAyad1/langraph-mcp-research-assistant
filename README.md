@@ -37,7 +37,7 @@ GOOGLE_API_KEY=your_free_api_key_here
 ```bash
 streamlit run app.py
 ```
-
+cvfdfds
 ## 📖 Usage Example
 1. Enter a topic: "Learn Kubernetes in 30 days"
 2. The assistant will:
